@@ -1,4 +1,4 @@
-# 🎓 IntelliLearn - AI-Powered Learning Platform
+#  IntelliLearn - AI-Powered Learning Platform
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
@@ -6,28 +6,28 @@
 
 IntelliLearn is an innovative AI-powered learning platform that transforms various types of educational content into structured, study-ready formats. The platform leverages state-of-the-art machine learning models to provide transcription, summarization, translation, flashcard generation, and quiz creation services.
 
-## 🚀 What We Achieve
+##  What We Achieve
 
 IntelliLearn addresses the growing need for automated tools that can transform any type of learning material into structured, accessible formats. Our platform integrates five core AI services to create a comprehensive learning ecosystem:
 
-### 🌟 Key Features
+###  Key Features
 
-- **📚 Universal Content Processing**: Upload and process PDFs, Word documents, audio files, videos, and plain text
-- **🧠 AI-Powered Intelligence**: Advanced ML models for transcription, summarization, and translation
-- **📝 Smart Study Aids**: Automatically generate flashcards, quizzes, and study notes
-- **🌍 Multilingual Support**: Support for 20+ languages with intelligent translation
-- **⚡ Real-time Processing**: Instant feedback with optimized parallel processing
-- **🎨 Modern UI/UX**: Responsive, intuitive interface with drag-and-drop functionality
+- **Universal Content Processing**: Upload and process PDFs, Word documents, audio files, videos, and plain text
+- ** AI-Powered Intelligence**: Advanced ML models for transcription, summarization, and translation
+- ** Smart Study Aids**: Automatically generate flashcards, quizzes, and study notes
+- ** Multilingual Support**: Support for 20+ languages with intelligent translation
+- ** Real-time Processing**: Instant feedback with optimized parallel processing
+- ** Modern UI/UX**: Responsive, intuitive interface with drag-and-drop functionality
 
-### 🔧 Core AI Services
+###  Core AI Services
 
-1. **🎤 Transcription Service**: Audio/video to text using Whisper models
-2. **📝 Summarization Service**: Intelligent text summarization with multiple modes
-3. **🌐 Translation Service**: Multi-language translation capabilities
-4. **📚 Flashcard Generation**: Automated study card creation
-5. **❓ Quiz Generation**: Interactive quiz creation with multiple choice questions
+1. ** Transcription Service**: Audio/video to text using Whisper models
+2. ** Summarization Service**: Intelligent text summarization with multiple modes
+3. ** Translation Service**: Multi-language translation capabilities
+4. ** Flashcard Generation**: Automated study card creation
+5. ** Quiz Generation**: Interactive quiz creation with multiple choice questions
 
-## 🏗️ Architecture
+##  Architecture
 
 IntelliLearn follows a modern, scalable architecture:
 
@@ -65,7 +65,7 @@ IntelliLearn follows a modern, scalable architecture:
 - Multi-language translation models
 - Sentence transformers for embeddings
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 IntelliLearn/
@@ -89,7 +89,7 @@ IntelliLearn/
 └── README.md              # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ pipenv run flask init-db
 pipenv run flask --app wsgi.py --debug run -p 5001
 ```
 
-📖 **Detailed backend setup**: See [backend/README.md](backend/README.md)
+ **Detailed backend setup**: See [backend/README.md](backend/README.md)
 
 ### 3. Frontend Setup
 
@@ -124,7 +124,7 @@ npm install
 npm start
 ```
 
-📖 **Detailed frontend setup**: See [frontend/README.md](frontend/README.md)
+**Detailed frontend setup**: See [frontend/README.md](frontend/README.md)
 
 ### 4. Access the Application
 
@@ -132,7 +132,7 @@ npm start
 - **Backend API**: http://localhost:5001
 - **API Documentation**: http://localhost:5001/health
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### For Students
 - **Lecture Transcription**: Convert recorded lectures to text
@@ -152,7 +152,7 @@ npm start
 - **Training Materials**: Create study aids from documentation
 - **Multilingual Communication**: Translate content for global teams
 
-## 🔐 Security Features
+##  Security Features
 
 - JWT-based authentication with secure token management
 - Password hashing with bcrypt
@@ -160,7 +160,7 @@ npm start
 - File upload validation and sanitization
 - Environment-based configuration management
 
-## 📊 Performance
+##  Performance
 
 - **3-5x faster processing** through parallel processing
 - **Chunk-based analysis** for large documents
@@ -168,7 +168,7 @@ npm start
 - **Optimized model loading** with caching
 - **Efficient memory management** for AI operations
 
-## 🌐 Multilingual Support
+##  Multilingual Support
 
 IntelliLearn supports over 20 languages including:
 - English, Spanish, French, German
@@ -176,7 +176,7 @@ IntelliLearn supports over 20 languages including:
 - Arabic, Hindi, Portuguese, Russian
 - And many more...
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
