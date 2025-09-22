@@ -1,0 +1,29 @@
+# Ignore all files ending with .log
+*.log
+
+# Ignore all files in the 'build' directory
+build/
+
+# Ignore specific files
+.DS_Store
+Thumbs.db
+
+# Ignore all files with the .tmp extension
+*.tmp
+
+# Ignore node_modules directory (common in JavaScript projects)
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore backup files
+*~
