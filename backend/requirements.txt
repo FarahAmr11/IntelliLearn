@@ -1,0 +1,75 @@
+# Core Flask Framework
+Flask==3.0.3
+Flask-CORS==4.0.0
+Flask-Bcrypt==1.0.1
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.4
+itsdangerous==2.2.0
+
+# Database
+SQLAlchemy==2.0.32
+marshmallow==3.21.3
+marshmallow-sqlalchemy==1.1.0
+
+# Authentication & Security
+PyJWT==2.9.0
+bcrypt==4.3.0
+cryptography==46.0.1
+
+# Environment & Configuration
+python-dotenv==1.0.1
+
+# File Processing & Text Extraction
+python-magic==0.4.27
+python-docx==1.2.0
+pypdf==6.0.0
+pdfplumber==0.11.7
+PyMuPDF==1.26.4
+pytesseract==0.3.13
+Pillow==11.3.0
+pdf2image==1.17.0
+
+# Machine Learning & AI
+torch==2.8.0
+transformers==4.56.1
+sentence-transformers==5.1.0
+accelerate==1.10.1
+safetensors==0.6.2
+datasets==4.1.0
+
+# Audio Processing (for transcription)
+faster-whisper>=0.10.0
+librosa==0.11.0
+soundfile==0.13.1
+ffmpeg-python==0.2.0
+
+# Language Detection & Evaluation
+langdetect==1.0.9
+jiwer==4.0.0
+sacrebleu==2.5.1
+rouge-score==0.1.2
+
+# Utilities
+numpy==2.2.6
+protobuf==6.32.1
+requests==2.32.5
+tqdm==4.67.1
+regex==2025.9.1
+tokenizers==0.22.0
+sentencepiece==0.2.1
+huggingface-hub==0.35.0
+
+# Development & Testing
+pytest==8.3.3
+
+# Note: The following packages are installed as dependencies but not directly imported:
+# - absl-py, aiohappyeyeballs, aiohttp, aiosignal, async-timeout, attrs, audioread
+# - bert-score, blinker, certifi, cffi, charset-normalizer, click, colorama
+# - contourpy, cycler, decorator, dill, evaluate, exceptiongroup, filelock
+# - fonttools, frozenlist, fsspec, future, hf-xet, idna, iniconfig, joblib
+# - kiwisolver, lazy_loader, llvmlite, lxml, MarkupSafe, matplotlib, mpmath
+# - msgpack, multidict, multiprocess, networkx, nltk, numba, packaging, pandas
+# - pdfminer.six, platformdirs, pluggy, pooch, portalocker, propcache, psutil
+# - pyarrow, pycparser, pyparsing, pypdfium2, python-dateutil, pytz, PyYAML
+# - RapidFuzz, sacremoses, scikit-learn, scipy, six, soxr, sympy, tabulate
+# - threadpoolctl, tomli, typing_extensions, tzdata, urllib3, wheel, xxhash, yarl
