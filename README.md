@@ -3,7 +3,6 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/flask-3.0.3-green.svg)](https://flask.palletsprojects.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 IntelliLearn is an innovative AI-powered learning platform that transforms various types of educational content into structured, study-ready formats. The platform leverages state-of-the-art machine learning models to provide transcription, summarization, translation, flashcard generation, and quiz creation services.
 
